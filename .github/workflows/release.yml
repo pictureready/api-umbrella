@@ -1,4 +1,4 @@
-name: Release
+cashmire: Release
 
 on:
   push:
