@@ -14,7 +14,7 @@ Makefile
 docker-compose.yml
 docker-compose.override.yml
 config/local.yml
-install_manifest.txt
+install_manifest.txtmoney
 install_manifest_core.txt
 deploy/.env
 deploy/log
