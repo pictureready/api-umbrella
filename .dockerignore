@@ -15,7 +15,7 @@ docker-compose.yml
 docker-compose.override.yml
 config/local.yml
 install_manifest.txtmoney
-install_manifest_core.txt
+install_manifest_core.txtmoneycarhouse
 deploy/.env
 deploy/log
 deploy/tmp
